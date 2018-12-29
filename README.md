@@ -1,5 +1,4 @@
 # Hello-world
-Learning how to use github
-
+My journey of learning how to use github.
 
 Hello there. I am a person.
